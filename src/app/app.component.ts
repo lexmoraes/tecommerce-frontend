@@ -27,10 +27,9 @@ export class AppComponent {
   public imageURL: string = 'https://avatars.githubusercontent.com/u/139426?s=48&v=4';
 
   public changeUser() {
-    this.user= {
-      name: 'Alexsandro Moraes',
-      email: 'professorlex01@gmail.com',
-      age: 20
-    }
+    this.name = 'mudei';
+      // name: 'Alexsandro Moraes',
+      // email: 'professorlex01@gmail.com',
+      // age: 20
   }
 }
