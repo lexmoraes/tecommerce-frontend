@@ -1,6 +1,6 @@
 # TecommerceFrontend
 
-Projeto gerado utilizando [Angular CLI](https://github.com/angular/angular-cli), versão 18.2.9.
+Projeto gerado utilizando [Angular CLI](https://github.com/angular/angular-cli), versão 18.2.9. Realizado durante a disciplina de frameworks frontend do curso de Desenvolvimento de Software da Etech-FPFtech.
 
 ## Servidor de Desenvolvimento
 
