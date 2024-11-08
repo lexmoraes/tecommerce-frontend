@@ -24,4 +24,4 @@ O comando `ng e2e` executa testes de ponta a ponta usando uma plataforma de test
 
 ## Ajuda e Referências
 
-Precisa de mais ajuda? Use `ng help` ou consulte a [Visão Geral e Referência de Comandos do Angular CLI](https://angular.dev/tools/cli).
+Precisa de mais ajuda? Consulte a [Django documentation](https://docs.djangoproject.com/en/5.1/).
